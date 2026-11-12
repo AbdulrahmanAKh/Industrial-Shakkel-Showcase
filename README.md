@@ -110,9 +110,13 @@ Shakkel is an enterprise B2B and B2C digital commerce platform engineered specif
 ## Live Application Links
 
 - Production Storefront: [https://shakkel.store/](https://shakkel.store/)
-- Contact / Inquiries: [aboodkhatib90@gmail.com](mailto:aboodkhatib90@gmail.com)
-- GitHub Profile: [@AbdulrahmanAKh](https://github.com/AbdulrahmanAKh)
-- Portfolio: [https://abdulrahmanakh.github.io/Alkhatib-Portfolio/](https://abdulrahmanakh.github.io/Alkhatib-Portfolio/)
+
+## Author
+
+- Portfolio: [https://abdulrahmanakh.github.io/](https://abdulrahmanakh.github.io/)
+- LinkedIn: [https://www.linkedin.com/in/abdulrahman-alkhatib/](https://www.linkedin.com/in/abdulrahman-alkhatib/)
+- GitHub: [@AbdulrahmanAKh](https://github.com/AbdulrahmanAKh)  
+- Email: [aboodkhatib90@gmail.com](mailto:aboodkhatib90@gmail.com)  
 
 ---
 
